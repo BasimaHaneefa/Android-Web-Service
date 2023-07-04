@@ -1,0 +1,11 @@
+create  android project
+
+copy and paste ksoap file to our project libs.
+
+Paste  gradle dependency.
+
+paste webservicecaller on java folder.
+
+create web service on java project's source package using webservice.
+Add metro files.
+open webservice folder on java project right click on newwebservice test web service.
